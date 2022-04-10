@@ -1,2 +1,7 @@
 line 1 remote git lab
+<<<<<<< HEAD
 This is Suraj
+=======
+Test suraj
+>>>>>>> 28ae95c60b3e9f8a7544dc34079e13379507564d
+this is final line
